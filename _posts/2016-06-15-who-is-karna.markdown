@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
+title:  "Who is VroomOnTheRoad?"
+description: VroomOnTheRoad sayfası ecikle bicikin motor gezileri üzerine açıp gezileri hakkında paylaşım yapmayı planladığı platformdur. Motor gezilerinden derlenmiş fotoğraf ve yazıları bu sayfa üzerine paylaşacaklar. Buda temanın ilk denemesi gayri...
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: karna.jpg
 categories: [one, two]
 color: 1976D2
-author: webjeda
+author: burak şibar
 ---
-Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
+Bu bölüm heraldi açıklama alanına denk geliyor. Buraya daha sonra bakıcam test amaçlı bir yazı yazıp nereleri etkilediğini görmek istedim.
 
 Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
 
